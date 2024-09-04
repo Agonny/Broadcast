@@ -3,6 +3,11 @@
   <component name="VcsDirectoryMappings">
     <mapping directory="" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/AccountService" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/ApiGateway" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/AuthService" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/ChatService" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/EurekaServer" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/GroupService" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/NotificationService" vcs="Git" />
   </component>
 </project>
